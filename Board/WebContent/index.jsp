@@ -4,11 +4,20 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
 <title>Insert title here</title>
 </head>
 <body>
 
 	<h1>안녕하세요</h1>
-
+	
+	<div ng-app="" ng-init="myCol='red'">
+ 
+		<p>Input something in the input box:</p>
+		<p>Name : <input type="text" style="background-color: {{myCol}}" ng-model="myCol" placeholder="Enter name here"></p>
+		<h1>Hello {{myCol}}</h1>
+	
+	</div>
+	
 </body>
 </html>
