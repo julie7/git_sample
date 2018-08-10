@@ -8,7 +8,7 @@
 </head>
 <body>
 
-	<div>
+	<div> 
 		<h1>안녕</h1>
 		<iframe width="640" height="360" src="http://v.afree.ca/ST/35032815" frameborder="0" allowfullscreen="true"></iframe>
 		<iframe width="640" height="360" src="http://vod.afreecatv.com/embed.php?type=station&isAfreeca=false&autoPlay=false&showChat=true&szBjId=ney1201&nStationNo=1596260&nBbsNo=2983108&nTitleNo=35032815&szCategory=00010000&szPart=REVIEW&szVodType=STATION&szSysType=html5" frameborder="0" allowfullscreen="true"></iframe>
