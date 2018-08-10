@@ -14,7 +14,7 @@
 		<iframe width="640" height="360" src="http://vod.afreecatv.com/embed.php?type=station&isAfreeca=false&autoPlay=false&showChat=true&szBjId=ney1201&nStationNo=1596260&nBbsNo=2983108&nTitleNo=35032815&szCategory=00010000&szPart=REVIEW&szVodType=STATION&szSysType=html5" frameborder="0" allowfullscreen="true"></iframe>
 		<h1>두번째동영상</h1>
 		<iframe width="640" height="360" src="https://youtu.be/c2_xra2BlLg"></iframe>
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/c2_xra2BlLg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+		<iframe width="640" height="360" src="https://www.youtube.com/embed/c2_xra2BlLg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 		<h1>안되는건가..</h1>
 	</div>
 
